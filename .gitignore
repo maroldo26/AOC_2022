@@ -2,9 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Day_1/.vs
-/Day_1/Day_1/bin/Debug/net6.0
-/Day_1/Day_1/obj
-/Day_2/.vs
-/Day_2/Day_2/bin/Debug/net6.0
-/Day_2/Day_2/obj
+**.vs
+**Debug
+**obj
